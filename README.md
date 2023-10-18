@@ -8,16 +8,6 @@ A React ecosystem library for building back-office platforms like [DD360](https:
 It's library created by developers for developers 
 <br/>
 
-**[Stable v6](https://bui.dd360.mx/)**
-
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/dd3tech/bui)
-[![npm latest package](https://img.shields.io/npm/v/dd360-ds/latest.svg)](https://www.npmjs.com/package/dd360-ds)
-[![npm downloads](https://img.shields.io/npm/dm/dd360-ds)](https://www.npmjs.com/package/dd360-ds)
-[![Average time to resolve an issue](https://isitmaintained.com/badge/resolution/dd3tech/bui.svg)](https://isitmaintained.com/project/dd3tech/bui 'Average time to resolve an issue')
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/7584/badge)](https://bestpractices.coreinfrastructure.org/projects/7584)
-[![Storybook](https://raw.githubusercontent.com/storybooks/brand/master/badge/badge-storybook.svg)](https://main--62ffec7466615c40c8dbe435.chromatic.com)
-
-
 <p>
   <a href="https://bui.dd360.mx/" rel="noopener" target="_blank"><img style="border-radius:6px" src="./assets/bui-components-dark.png" alt="BUI components"></a>
 </p>
@@ -105,5 +95,4 @@ import { Button } from 'dd360-ds'
 
 This is the most fun part. Below we will explain the use of the components we are currently developing.
 
-You can checking and contribute to the docs website [here](https://github.com/dd3tech/bui-docs)
 
