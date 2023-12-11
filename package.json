@@ -81,7 +81,7 @@
         "@semantic-release/npm": "^9.0.1",
         "@semantic-release/release-notes-generator": "^10.0.3",
         "@storybook/addon-actions": "6.5.10",
-        "@storybook/addon-essentials": "6.5.10",
+        "@storybook/addon-essentials": "7.6.4",
         "@storybook/addon-links": "7.4.6",
         "@storybook/addon-postcss": "2.0.0",
         "@storybook/react": "6.5.10",
